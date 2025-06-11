@@ -1,0 +1,6 @@
+pymongo
+langchain
+langchain-community
+motor
+python-dotenv
+langchain-google-genai
