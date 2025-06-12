@@ -1,0 +1,14 @@
+azure-ai-vision-imageanalysis
+azure.identity
+aiohttp
+azure-cognitiveservices-vision-computervision
+azure-storage-blob 
+fastapi
+uvicorn
+multipart
+pymongo
+langchain
+langchain-community
+motor
+python-dotenv
+langchain-google-genai
